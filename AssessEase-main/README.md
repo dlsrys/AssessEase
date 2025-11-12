@@ -1,0 +1,2 @@
+# AssessEase
+This project is a web-based quiz and exam management system designed for classroom use. Teachers can create quizzes, control which students have access, and set deadlines to automatically lock submissions once the time expires. Students can log in to attempt quizzes assigned to them within the allowed period. The system focuses on simplicity and ease of use, built with PHP, HTML, CSS, and Bootstrap. Developed as a collaborative group project.
